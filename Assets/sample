@@ -1,0 +1,5 @@
+num_of_targets : 1
+    START   STOP    PN_X/N  PN_Y/W  PN_Z/U  VN_X    VN_Y    VN_Z    ACC_X   ACC_Y   ACC_Z   RCS Target Type
+#1 0 120 -2 0 0 3 10 0 0 -15 0
+#2 3 120 -2 0 2 3 10 0 0 -15 0
+#3 5 120 -2 0 -2 3 10 0 0 -15 0
